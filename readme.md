@@ -11,6 +11,12 @@ npm i @fiqryq/tailwind-config
 yarn add @fiqryq/tailwind-config
 ```
 
+### Usage
+just import on ```tailwind.config.js```
+```js
+plugins: [require('@fiqryq/tailwind-config')]
+```
+
 ### config style
 
 ```js
