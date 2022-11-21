@@ -3,12 +3,11 @@
 personal tailwind config.
 
 ### Installation 
-```
-// npm
+```bash
+# npm
 npm i @fiqryq/tailwind-config
 
-// yarn
-
+# yarn
 yarn add @fiqryq/tailwind-config
 ```
 
