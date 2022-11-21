@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-config",
+  "name": "@fiqryq/tailwind-config",
   "version": "1.0.0",
   "main": "src/index.js",
   "author": "fiqryq",
