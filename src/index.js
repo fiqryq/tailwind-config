@@ -20,6 +20,7 @@ const config = {
         "4xl": "3rem",
       },
     },
+    plugins: [require("@tailwindcss/line-clamp")]
   },
 };
 
