@@ -1,8 +1,8 @@
 name: 'publish npm'
 
 on:
-  push:
-    branches: master
+  release:
+    types: [created]
 
 jobs:
   publish:
